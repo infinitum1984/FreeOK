@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1079895900100",
+    "firebase_url": "https://free-ok-pro-proxy-data.firebaseio.com",
+    "project_id": "free-ok-pro-proxy-data",
+    "storage_bucket": "free-ok-pro-proxy-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079895900100:android:641475e5b684b6fe",
+        "android_client_info": {
+          "package_name": "com.infinitum_micro_tech.free_ok__pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079895900100-tto821lulcbfmrcd3d1g3pcpha07gs44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infinitum_micro_tech.free_ok__pro",
+            "certificate_hash": "eacaf0f56851ddff5c708ae02e8419cfacd6ceb1"
+          }
+        },
+        {
+          "client_id": "1079895900100-rh0krc0hie5vg6skbgq6ca9j6ts00jof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqzNX7Cs9d6V03KdNRAGQB2MVRGj6u-IE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079895900100-rh0krc0hie5vg6skbgq6ca9j6ts00jof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
